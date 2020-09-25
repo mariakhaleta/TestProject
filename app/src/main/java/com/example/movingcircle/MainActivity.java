@@ -1,4 +1,4 @@
-package com.example.jmindtesttask;
+package com.example.movingcircle;
 
 import android.os.Bundle;
 

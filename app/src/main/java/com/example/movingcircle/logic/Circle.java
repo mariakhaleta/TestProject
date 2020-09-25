@@ -1,4 +1,4 @@
-package com.example.jmindtesttask.logic;
+package com.example.movingcircle.logic;
 
 import android.graphics.Paint;
 import android.graphics.Point;

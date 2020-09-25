@@ -1,4 +1,4 @@
-package com.example.jmindtesttask;
+package com.example.movingcircle;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -7,10 +7,8 @@ import android.view.View;
 
 import androidx.annotation.Nullable;
 
-import com.example.jmindtesttask.logic.Circle;
-import com.example.jmindtesttask.logic.CirclesManager;
-
-import java.util.ArrayList;
+import com.example.movingcircle.logic.Circle;
+import com.example.movingcircle.logic.CirclesManager;
 
 public class CirclesView extends View implements CirclesManager.MoveListener {
 
